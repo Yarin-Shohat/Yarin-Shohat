@@ -29,7 +29,7 @@ Love to learn new things and grow
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## SQL & DataBases
+## SQL & BigData
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -37,6 +37,9 @@ Love to learn new things and grow
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=black&style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge)
+
 
 ## Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,6 +60,8 @@ Love to learn new things and grow
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=google-colab&logoColor=black&style=for-the-badge)
+![Databricks](https://img.shields.io/badge/-Databricks-EF4223?logo=databricks&logoColor=white&style=for-the-badge)
 
 ### Socials
 
